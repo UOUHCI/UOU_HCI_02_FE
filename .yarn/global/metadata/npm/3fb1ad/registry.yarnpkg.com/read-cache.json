@@ -1,0 +1,1 @@
+{"metadata":{"dist-tags":{"latest":"1.0.0"},"versions":{"1.0.0":{"name":"read-cache","dist":{"tarball":"https://registry.npmjs.org/read-cache/-/read-cache-1.0.0.tgz"},"scripts":{"test":"ava"},"dependencies":{"pify":"^2.3.0"}}}},"etag":"W/\"e56dd5aa0653a0cb7f7fee2ba3f66c33\"","lastModified":"Sun, 26 Jun 2022 09:12:54 GMT"}

@@ -1,0 +1,1 @@
+{"metadata":{"dist-tags":{"latest":"5.2.0"},"versions":{"5.2.0":{"name":"@alloc/quick-lru","dist":{"tarball":"https://registry.npmjs.org/@alloc/quick-lru/-/quick-lru-5.2.0.tgz"},"scripts":{"test":"xo && nyc ava && tsd"}}}},"etag":"W/\"5869897e06fa3137fb0935346473e733\"","lastModified":"Mon, 04 Apr 2022 13:33:39 GMT"}
