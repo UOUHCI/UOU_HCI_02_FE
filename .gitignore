@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.yarn/
+.playwright-cli/
+output/
+
+*.log
+*.tsbuildinfo
+.DS_Store

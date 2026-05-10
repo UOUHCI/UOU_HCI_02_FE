@@ -1,4 +1,4 @@
-export const formatPrice = (price: number): string => `${price.toLocaleString('ko-KR')}원`;
+export const formatPrice = (price: number): string => price.toLocaleString('ko-KR');
 
 export const getDiscountedPrice = (price: number, discountRate: number): number => {
   if (discountRate <= 0) {
